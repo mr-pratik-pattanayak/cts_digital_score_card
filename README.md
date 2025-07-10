@@ -113,18 +113,13 @@ lib/
 
 ---
 
-## 📸 Screenshots
-
-> (You can attach screenshots or a screen recording link here)
-
----
 
 ## 📹 Demo Videos
 
 - 📱 [**UI Demo Video**](https://drive.google.com/file/d/1guim1DXgueIAM-oyruUc07uWCjPQlvi3/view?usp=sharing)
 - 📝 [**Technical Walkthrough**](https://drive.google.com/file/d/1gRhAWT6_W-D0KKu1ywgJHl8ERmcSx6S-/view?usp=sharing)
 
-*(Replace these links with your own)*
+
 
 ---
 
